@@ -1,0 +1,13 @@
+Timestamp,Field,Input,Primary Emotion,Secondary Emotion,Confidence
+2026-07-14 19:48:41,Chemistry,"i dont understand covalent bonding
+",Confused,None,0.5361185669898987
+2026-07-14 19:49:19,Civil Engineering,"whats the importance of civil engineering 
+
+",Confident,None,0.4628101587295532
+2026-07-14 19:51:22,Artificial Intelligence,"i cant understand llms
+
+
+",Confused,None,0.41632527112960815
+2026-07-14 19:52:03,Physics,"what is kinetic energy ? and how can i use it in my daily life?
+",Bored,None,0.389493852853775
+2026-07-14 19:57:58,Computer Science,i have been trying recursions but i still dont understand  ,Confused,None,0.6354567408561707
